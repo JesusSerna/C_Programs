@@ -1,0 +1,4 @@
+My program works on dynamic memory, once running, my program can delete or store new records. My program takes input from the user is various forms. Records should be entered using the specified formatting. 
+		First_name [space] Last_name [space] grade/score [enter].
+The program will automatically stop taking input after a certain, user specified, number of records are taken. Once the records are taken, there will be a menu to guide the user to pre-defined functions, such as sorting, and searching by first name or last name. Once the program has run the user specified function, it will present the user with the main menu again, and repeat the process until the user specifies a 0, which will exit the program.
+** The program will not take characters as input when prompted to define the number of records to be stored, nor when prompted to choose between functions in the main menu.**
